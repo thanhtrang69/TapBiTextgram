@@ -1,0 +1,17 @@
+{
+"title":"25",
+"author":"codeadore",
+"canvas_width":1080,
+"canvas_height":1080,
+"background_path":"[assets]/backgrounds/34.jpg",
+"background_blur":false,
+"text_color":"#3a3a3a",
+"text_align":3,
+"text_width":920,
+"text_height":524,
+"text_position_x":71,
+"text_position_y":302,
+"text_rotation_angle":0,
+"text_size":70,
+"font_path":"[assets]/fonts/bigjohn.otf"
+}

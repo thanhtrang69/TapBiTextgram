@@ -1,0 +1,17 @@
+{
+"title":"27",
+"author":"codeadore",
+"canvas_width":1080,
+"canvas_height":1080,
+"background_path":"[assets]/backgrounds/39.jpg",
+"background_blur":false,
+"text_color":"#3630d0",
+"text_align":3,
+"text_width":743,
+"text_height":787,
+"text_position_x":278,
+"text_position_y":220,
+"text_rotation_angle":0,
+"text_size":67,
+"font_path":"[assets]/fonts/Handwriting.ttf"
+}

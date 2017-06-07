@@ -1,0 +1,17 @@
+{
+"title":"04",
+"canvas_width": 1080,
+"canvas_height": 1080,
+"text_color": "#ffffff",
+"text_align":1,
+"text_width":908,
+"text_height":451,
+"text_size": 84,
+"text_position_x": 88,
+"text_position_y": 479,
+"text_rotation_angle": 0,
+"background_path": "[assets]/backgrounds/04.jpg",
+"background_blur": "true",
+"font_path": "[assets]/fonts/Lovelo-Line-Bold.otf",
+"author": "codeadore"
+}

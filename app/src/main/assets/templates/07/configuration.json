@@ -1,0 +1,18 @@
+{
+"title":"07",
+"canvas_width": 1080,
+"canvas_height": 1080,
+"text_color": "#ffffff",
+"text_align": 1,
+"text_width":900,
+"text_height":450,
+"text_size": 129,
+"text_position_x": 90,
+"text_position_y": 363,
+"text_rotation_angle": 0,
+"text_shadow_color": "#5b3737",
+"background_path": "[assets]/backgrounds/07.jpg",
+"background_blur": false,
+"font_path": "[assets]/fonts/Moonshiner.otf",
+"author": "codeadore"
+}

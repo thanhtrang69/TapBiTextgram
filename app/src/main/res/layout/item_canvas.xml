@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:id="@+id/ll_canvas"
+    android:gravity="center"
+    xmlns:fab="http://schemas.android.com/tools"
+    android:layout_height="match_parent">
+<ImageView
+    android:layout_gravity="center"
+    android:id="@+id/iv_canvas"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    fab:fab_colorNormal="@color/red_e73a3d"
+    fab:fab_colorPressed="@color/red_b00606"
+    fab:fab_title="@string/add_sticker"/>
+</LinearLayout>

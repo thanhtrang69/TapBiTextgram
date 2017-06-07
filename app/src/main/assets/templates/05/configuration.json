@@ -1,0 +1,17 @@
+{
+"title":"05",
+"canvas_width": 1080,
+"canvas_height": 1080,
+"text_color": "#323232",
+"text_align":1,
+"text_width":908,
+"text_height":451,
+"text_size": 126,
+"text_position_x": 36,
+"text_position_y": 523,
+"text_rotation_angle": 0,
+"text_stroke_color": "#d9d6b7",
+"background_path": "[assets]/backgrounds/05.jpg",
+"font_path": "[assets]/fonts/Borg.ttf",
+"author": "codeadore"
+}

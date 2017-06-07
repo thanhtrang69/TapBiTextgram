@@ -1,0 +1,16 @@
+{
+"title":"01",
+"canvas_width": 1080,
+"canvas_height": 1080,
+"text_color": "#ffffff",
+"text_align":3,
+"text_width":647,
+"text_height":538,
+"text_size": 70,
+"text_position_x": 387,
+"text_position_y": 431,
+"text_rotation_angle": 0,
+"background_path": "[assets]/backgrounds/01.jpg",
+"font_path": "[assets]/fonts/lumberjack.ttf",
+"author": "codeadore"
+}

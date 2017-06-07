@@ -1,0 +1,17 @@
+{
+"title":"02",
+"canvas_width": 1080,
+"canvas_height": 1080,
+"text_color": "#d8c133",
+"text_align":1,
+"text_width":901,
+"text_height":479,
+"text_size": 113,
+"text_position_x": 84,
+"text_position_y": 380,
+"text_rotation_angle": 0,
+"text_stroke_color": "#ffffff",
+"background_path": "[assets]/backgrounds/02.jpg",
+"font_path": "[assets]/fonts/BebasNeueBold.otf",
+"author": "codeadore"
+}

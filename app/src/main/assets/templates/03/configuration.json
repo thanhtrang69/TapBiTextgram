@@ -1,0 +1,17 @@
+{
+"title":"03",
+"canvas_width": 1080,
+"canvas_height": 1080,
+"text_color": "#333333",
+"text_align":3,
+"text_width":756,
+"text_height":477,
+"text_size": 84,
+"text_position_x": 174,
+"text_position_y": 247,
+"text_rotation_angle": 22.5079402923584,
+"text_stroke_color": "#ffffff",
+"background_path": "[assets]/backgrounds/03.jpg",
+"font_path": "[assets]/fonts/fabfeltscript-bold.ttf",
+"author": "codeadore"
+}

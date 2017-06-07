@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pink_face_n"
+    android:orientation="vertical"
+    tools:context="com.example.trang.tapbitextgram.activity.DeleteItemActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/pink_face"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_back_fragment_picture"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_arrow_back_black_24dp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:layout_weight="4"
+            android:gravity="center|left"
+            android:text="Textgram"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5">
+
+        <ImageView
+            android:id="@+id/iv_item_delete"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/ib_delete"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_gravity="center"
+            android:background="#00000000"
+            android:src="@mipmap/delete" />
+
+        <TextView
+            android:id="@+id/tv_delete"
+            android:layout_width="128dp"
+            android:layout_height="32dp"
+            android:layout_gravity="center"
+            android:background="#00000000"
+            android:gravity="center"
+            android:text="DELETE"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+</LinearLayout>

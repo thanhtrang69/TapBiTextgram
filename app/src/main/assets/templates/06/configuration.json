@@ -1,0 +1,17 @@
+{
+"title":"06",
+"canvas_width": 1080,
+"canvas_height": 1080,
+"text_color": "#2d2c27",
+"text_align": 1,
+"text_width":900,
+"text_height":450,
+"text_size": 89,
+"text_position_x": 90,
+"text_position_y": 468,
+"text_rotation_angle": 0,
+"background_path": "[assets]/backgrounds/06.jpg",
+"background_blur": true,
+"font_path": "[assets]/fonts/TrueLove.ttf",
+"author": "codeadore"
+}

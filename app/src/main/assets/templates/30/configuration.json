@@ -1,0 +1,17 @@
+{
+"title":"30",
+"author":"codeadore",
+"canvas_width":1080,
+"canvas_height":1080,
+"background_path":"[assets]/backgrounds/49.jpg",
+"background_blur":false,
+"text_color":"#ffffff",
+"text_align":3,
+"text_width":750,
+"text_height":692,
+"text_position_x":165,
+"text_position_y":155,
+"text_rotation_angle":0,
+"text_size":135,
+"font_path":"[assets]/fonts/zzAraEtabAlMonieee-Regular.otf"
+}

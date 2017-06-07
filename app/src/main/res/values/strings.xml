@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TapBiTextgram</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="action_complete"></string>
+    <string name="double_click_input_text">You want to write ?</string>
+    <string name="add_sticker">Template mode</string>
+    <string name="add_bubble">Empty canvas</string>
+    <string name="complete">Update</string>
+    <string name="publish_comment">……</string>
+    <string name="over_text_limit"></string>
+    <string name="saved">saved</string>
+    <string name="nameFolder">/Beautiful</string>
+</resources>

@@ -1,0 +1,17 @@
+{
+"title":"",
+"author":"codeadore",
+"canvas_width":1080,
+"canvas_height":1080,
+"background_path":"[assets]/backgrounds/23.jpg",
+"background_blur":false,
+"text_color":"#ffffff",
+"text_align":1,
+"text_width":928,
+"text_height":523,
+"text_position_x":76,
+"text_position_y":83,
+"text_rotation_angle":0,
+"text_size":71,
+"font_path":"[assets]/fonts/PlayfairDisplay.otf"
+}

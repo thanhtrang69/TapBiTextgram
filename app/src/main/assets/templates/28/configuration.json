@@ -1,0 +1,17 @@
+{
+"title":"28",
+"author":"codeadore",
+"canvas_width":1080,
+"canvas_height":1080,
+"background_path":"[assets]/backgrounds/42.jpg",
+"background_blur":false,
+"text_color":"#3f3f3f",
+"text_align":1,
+"text_width":944,
+"text_height":534,
+"text_position_x":68,
+"text_position_y":469,
+"text_rotation_angle":0,
+"text_size":112,
+"font_path":"[assets]/fonts/BERNIERShade-Regular.otf"
+}
